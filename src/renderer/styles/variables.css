@@ -1,0 +1,79 @@
+:root {
+  /* 亮色主题 */
+  --bg-primary: #ffffff;
+  --bg-secondary: #f5f7fa;
+  --text-primary: #303133;
+  --text-secondary: #606266;
+  --text-placeholder: #c0c4cc;
+  --border-color: #e4e7ed;
+  --border-light: #ebeef5;
+
+  /* 侧边栏 */
+  --aside-bg: #304156;
+  --aside-text: #bfcbd9;
+  --aside-active: #409eff;
+
+  /* 顶栏 */
+  --header-bg: #ffffff;
+  --header-border: #e6e6e6;
+
+  /* 主区域 */
+  --main-bg: #f5f7fa;
+
+  /* Element Plus 覆盖 */
+  --el-color-primary: #409eff;
+  --el-color-success: #67c23a;
+  --el-color-warning: #e6a23c;
+  --el-color-danger: #f56c6c;
+  --el-color-info: #909399;
+
+  --el-bg-color: #ffffff;
+  --el-bg-color-page: #f5f7fa;
+  --el-text-color-primary: #303133;
+  --el-text-color-regular: #606266;
+  --el-border-color: #e4e7ed;
+  --el-menu-bg-color: #304156;
+  --el-menu-text-color: #bfcbd9;
+  --el-menu-active-color: #409eff;
+
+  /* 阴影 */
+  --box-shadow-light: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --box-shadow-medium: 0 2px 8px rgba(0, 0, 0, 0.1);
+  --box-shadow-heavy: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+html.dark {
+  --bg-primary: #1a1a2e;
+  --bg-secondary: #16213e;
+  --text-primary: #e0e0e0;
+  --text-secondary: #a0a0a0;
+  --text-placeholder: #606060;
+  --border-color: #2a2a4a;
+  --border-light: #333355;
+
+  --aside-bg: #0f0f23;
+  --aside-text: #8a8aaa;
+  --aside-active: #409eff;
+
+  --header-bg: #1a1a2e;
+  --header-border: #2a2a4a;
+
+  --main-bg: #16213e;
+
+  --el-color-primary: #409eff;
+  --el-bg-color: #1a1a2e;
+  --el-bg-color-page: #16213e;
+  --el-text-color-primary: #e0e0e0;
+  --el-text-color-regular: #a0a0a0;
+  --el-border-color: #2a2a4a;
+  --el-menu-bg-color: #0f0f23;
+  --el-menu-text-color: #8a8aaa;
+  --el-menu-active-color: #409eff;
+  --el-fill-color-blank: #1a1a2e;
+  --el-input-bg-color: #2a2a4a;
+
+  /* 阴影 */
+  --box-shadow-light: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --box-shadow-medium: 0 2px 8px rgba(0, 0, 0, 0.3);
+  --box-shadow-heavy: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
