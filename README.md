@@ -1,6 +1,8 @@
-# 秋徐晨 · 离线办公助手
+# 离线办公助手
 
 > 全功能离线办公套件 — 基于 Electron + Vue 3 + TypeScript
+>
+> 项目归属于向治昌
 
 [![Electron](https://img.shields.io/badge/Electron-28-47848F?logo=electron)](https://www.electronjs.org/)
 [![Vue](https://img.shields.io/badge/Vue-3.4-4FC08D?logo=vue.js)](https://vuejs.org/)
@@ -9,7 +11,7 @@
 
 ## 📖 简介
 
-离线办公助手是一款完全离线可用的跨平台办公套件，无需网络连接即可完成文档编辑、PDF 阅读、OCR 识别、文件转换、笔记管理等日常办公任务。项目专为秋徐晨打造，采用 MIT 协议开源。
+离线办公助手是一款完全离线可用的跨平台办公套件，无需网络连接即可完成文档编辑、PDF 阅读、OCR 识别、文件转换、笔记管理等日常办公任务。采用 MIT 协议开源。
 
 ## ✨ 核心功能
 
@@ -235,4 +237,3 @@ MIT License — 详见 [LICENSE](LICENSE) 文件
 
 ---
 
-<p align="center">为秋徐晨倾心打造 ❤️</p>
